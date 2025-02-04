@@ -14,7 +14,11 @@ Each repo (mostly) covers a distinct problem in data science and should be accom
 
 <h4>Background</h4>
 
+Hi there! 👋 My name is Ha Bui (I go by Lexie). I did my undergraduate and graduate studies at Ewha Womans University, South Korea both on full-ride scholarships where I majored in Economics with a concentration in Econometrics and Causal Inference to analyze policy intervention impacts using observational data in social science. 
 
+I'm particularly interested in Experimentation in Tech Companies—how A/B testing, causal inference, and statistical analysis drive better product decisions. I enjoy learning about data science, machine learning, and experimentation frameworks to build insight-driven products. 
+
+I'm currently exploring online experimentation, uplift modeling, and reinforcement learning for decision-making. 
 <!--
 **lexie21/lexie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
