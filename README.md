@@ -10,7 +10,10 @@ This repository holds several personal projects that I've done throughout the ye
 
 3. [Loan Defaulter](https://github.com/lexie21/loandefaulter)
 
-4. [Miscellaneous Projects]
+4. Miscellaneous Projects
+- [Genre Prediction via Overview Text](https://github.com/lexie21/allthingsmovie)
+- [Vision Transformer](https://github.com/lexie21/deeplearning)
+- [SNS Text Analysis](https://github.com/lexie21/socialmediatext)
 
 Each repo (mostly) covers a distinct problem in data science and should be accompanied by some form of documentation.
 
